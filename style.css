@@ -1,0 +1,27 @@
+
+img{
+    width: 500px;
+    height: 300px;
+    padding: 5px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px; 
+}
+.A{
+    width: 350px; 
+    height: 300px;
+}
+div{
+    width: 500px;
+    display: flex;
+    padding: 20px;
+}
+h1{
+    color: black;
+}
+*{
+    background-color:honeydew;
+}
